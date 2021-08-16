@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="style.css"/>
+  <title>Form</title>
+</head>
+<body>
+ <div class="menu" id="sticky">
+    <ul class="menu-ul">
+    <a href= "index.html " class= "a-menu"><li>Home</li></a>
+    <a href= "indoor.html" class= "a-menu"><li>Indoor Plants</li></a>
+    <a href= "outdoor.html" class= "a-menu"><li>Outdoor Plants</li></a>
+    <a href= "blooming.html" class= "a-menu"><li>Blooming Plants</li></a>
+    
+    </ul>
+    <div class="bd">
+    <div class="main">
+        <form>
+          <br>
+            <h1 style="color: white; text-align: center; font-size: 50px;">Order FORM</h1>
+            <br>
+        <div id="name">
+        <h2 class="name">Name</h2>
+        <input class="firstname" type="text" name="first_name">
+        
+        </div>
+        <h2 class="name">Mobile No.</h2>
+        <input class="contact" type="text" name="contact">
+    
+        <h2 class="name">Email Address</h2>
+        <input class="mail" type="text" name="mail">
+        
+        <h2 class="name">Home Address</h2>
+        <input class="address" type="text" name="address">
+        <div class="btn">
+        <center><input type="button" onclick="reset()" value="Cancel"/>
+        <input type="button" onclick="pop()" value="Submit"/></center>
+        </div> 
+        </form>
+        </div>
+        </div>
+    </div>
+   
+        </body>
+        <script>
+            function pop(){
+              alert("Thank You! Your order is now being process. keepsafe ");
+            }
+          </script>
+</body>
+
+<style>
+    .bd{
+     background-image:url('bg.jpg');
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+</style>
+</html>
