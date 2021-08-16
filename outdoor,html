@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+   <link rel="stylesheet" href="style.css"/>
+  <title>Outdoor</title>
+</head>
+<body>
+  <div class="menu" id="sticky">
+    <ul class="menu-ul">
+    <a href= "index.html" class= "a-menu"><li>Home</li></a>
+    <a href= "indoor.html" class= "a-menu"><li>Indoor Plants</li></a>
+    <a href= "outdoor.html" class= "a-menu"><li>Outdoor Plants</li></a>
+    <a href= "blooming.html" class= "a-menu"><li>Blooming Plants</li></a>
+   
+    </ul>
+  </div>
+  
+  
+  <div class="deals-container" id="outdoor">
+    <div class="parallax">
+      <div class="title"><h1 style="font-size:70px;">Outdoor Plants</h1> <br>
+        <p style="font-family: Arial;">When you look out the window at a tree or hold a fragrant bouquet in your hands, 
+          how does it make you feel? Do you feel peaceful or filled with joy? If so, you might agree plants have the power to heal.
+           Science proves interacting with plants, both indoors and outdoors, is beneficial to physical and mental health. 
+          Anyone of any age and skill level can enjoy the benefits of gardening and surrounding him- or herself with nature. Outdoor Plants boost physical health in several different ways. For example, you can help purify the air and add calmness to 
+          the environment merely by adding a single plant to a room. Here are the top reasons to welcome plants into your home, yard or community.
+        <br>
+        Looking at plants and flowers, whether indoors or outdoors, is a peaceful activity free of worries or conflict. It encourages living in the present moment and engages the senses. When you take time to smell the sweet perfume of a magnolia tree, for example, your cortisol levels drop.
+
+        Consider a study published in the “Journal of Physiological Anthropology.” In this study, one group of participants worked on computer tasks, while another group transplanted indoor plants. After completing their assignments, the groups switched. The researchers found the subjects felt more comfortable and relaxed after the transplanting task, rather than the computer task. 
+        The study concluded individuals could reduce psychological and psychological stress by interacting with plants.</p></div>
+      </div>
+    <div class="items">
+      <div class="images">
+        <img src="plantone.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Kalachuchi</b><br/>
+        <div class="item-select">
+          Price: ₱500.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+    </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="planttwo.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Dapo</b><br/>
+        <div class="item-select">
+          Price: ₱800.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+      </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantthree.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Bromeliad</b><br/>
+        <div class="item-select">
+          Price: ₱250.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantfour.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Ti Plant</b><br/>
+        <div class="item-select">
+          Price: ₱1800.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantfive.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Peanut Plant</b><br/>
+        <div class="item-select">
+          Price: ₱30.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+        </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantsix.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Rhapis</b><br/>
+        <div class="item-select">
+          Price: ₱1000.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantseven.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>San Francisco</b><br/>
+        <div class="item-select">
+          Price: ₱400.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="planteight.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Buhok ni Esther</b><br/>
+        <div class="item-select">
+          Price: ₱500.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantnine.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Scheffera</b><br/>
+        <div class="item-select">
+          Price: ₱250.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+       </div>
+      
+      <div class="items">
+      <div class="images">
+        <img src="plantten.jpg" class="item-image-size"/>
+      </div>
+      <div class="decoration">
+        <b>Mini-Santan</b><br/>
+        <div class="item-select">
+          Price: ₱250.00
+        </div>
+        <label>Qty:</label>
+        <select class="item-select">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>        
+        </select><br/>
+        <a href= "form.html"><button class="buynow-btn">Buy Now</button></a>
+      </div>
+      
+        
+        
+    </div>
+  </div>
+       
+        
+        
+
+        
+        
+    </div> 
+</body>
+</html>
